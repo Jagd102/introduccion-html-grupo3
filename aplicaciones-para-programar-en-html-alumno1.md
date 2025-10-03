@@ -1,4 +1,5 @@
 Aplicaciones para programar en HTML
+
 Son programas o editores de código que permiten escribir, organizar y probar código HTML de manera eficiente. Estos editores suelen ofrecer funciones como resaltado de sintaxis, autocompletado de etiquetas y compatibilidad con otros lenguajes web (CSS, JavaScript).
 
 Ejemplos:
