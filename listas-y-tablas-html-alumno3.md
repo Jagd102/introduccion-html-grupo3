@@ -9,14 +9,12 @@ Listas y tablas en HTML
 
 Ejemplo:
 
-<!-- Lista no ordenada -->
 <ul>
   <li>Perro</li>
   <li>Gato</li>
   <li>Ave</li>
 </ul>
 
-<!-- Lista ordenada -->
 <ol>
   <li>Primero</li>
   <li>Segundo</li>
