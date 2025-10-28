@@ -7,6 +7,9 @@ tema html ejemplo
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Mi página mínima</title>
 </head>
+<footer>
+    <p>Laboratorio de Introducción a HTML - Grupo #5</p>
+</footer>
 <body>
 <h1>Soy un ejemplo de HTML</h1>
 <p>Este es un párrafo de ejemplo.</p>
