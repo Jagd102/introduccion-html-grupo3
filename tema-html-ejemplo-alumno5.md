@@ -8,7 +8,7 @@ tema html ejemplo
 <title>Mi página mínima</title>
 </head>
 <footer>
-    <p>Laboratorio de Introducción a HTML - Grupo #5</p>
+    <p> Esto es un Laboratorio de Introducción a HTML - Grupo #5</p>
 </footer>
 <body>
 <h1>Soy un ejemplo de HTML</h1>
